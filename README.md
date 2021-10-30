@@ -9,3 +9,6 @@ Includes docker file for spring boot application.
 
 ## DockerMySQL Folder
 Includes docker file for MySQL database.
+
+## bin Folder 
+Contains the source code.
